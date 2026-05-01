@@ -1,0 +1,11 @@
+{
+  "name": "shaikhul-agent-plugin",
+  "description": "A simple plugin for GitHub Copilot",
+  "version": "1.0.0",
+  "author": {
+    "name": "shaikhul"
+  },
+  "license": "MIT",
+  "agents": "agents/",
+  "skills": ["skills/"]
+}
